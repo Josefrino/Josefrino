@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Josefrino
-- 👀 I’m interested in anything that has to do with software in general
+- 👀 I’m interested in the following fields of software engineering: Mobile Development, Web Development, Artificial Intelligence, Computer Graphics and Embedded Systems
 - 🌱 I’m currently learning Flutter for mobile and web development
 - 💞️ I’m studying software engineering at 42 lisboa
 - 📫 How to reach me joseph.freeno@gmail.com
