@@ -2,15 +2,15 @@
 <table border="solid">
   <tr>
     <td valign="top">
-      <img src="https://raw.githubusercontent.com/Josefrino/Josefrino/main/profile_ai_image.png" width="150" height="250">
-    </td>
-    <td valign="top">
       🔭 I’m currently working on Full Stack Mobile and Web Development<br>
       👯 I’m looking to collaborate on open source projects<br>
       🤝 I’m looking for new challenges to improve my skills as a developer<br>
       🌱 I’m currently learning advanced web and mobile topics<br>
       💬 Ask me about anything<br>
       ⚡ Fun fact: i can hold my breath for 30 seconds, impressive i know
+    </td>
+      <td valign="top">
+      <img src="https://raw.githubusercontent.com/Josefrino/Josefrino/main/profile_ai_image.png" width="150" height="250">
     </td>
   </tr>
   <tr>
