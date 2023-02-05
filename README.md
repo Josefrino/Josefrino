@@ -1,5 +1,5 @@
 # 💫 About Me:
-<table border="solid">
+<table>
   <tr>
     <td valign="top">
       🔭 I’m currently working on Full Stack Mobile and Web Development<br>
