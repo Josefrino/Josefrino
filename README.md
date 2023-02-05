@@ -13,6 +13,11 @@
       ⚡ Fun fact: i can hold my breath for 30 seconds, impressive i know
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      Mid journey cartoon version of my linkedin profile picture
+    </td>
+  </tr>
 </table>
 
 ## 🌐 Socials:
