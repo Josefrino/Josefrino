@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td valign="top">
-      🔭 I’m currently working on Full Stack Mobile and Web Development<br>
+      🔭 I’m currently mastering Mobile and Web Development<br>
       👯 I’m looking to collaborate on open source projects<br>
       🤝 I’m looking for new challenges to improve my skills as a developer<br>
       🌱 I’m currently learning advanced web and mobile topics<br>
